@@ -1,0 +1,123 @@
+header{
+    border-top: 5px solid #FF7500;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+
+.btn-nav{
+    background-color: #FF7500;
+    color: #fff;
+}
+
+.hero {
+    background-color: #252420;
+}
+.hero-title{
+    font-family: 'Roboto Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 120%;
+/* or 48px */
+
+letter-spacing: 0.5px;
+
+color: #FFFFFF;
+}
+
+.hero-text {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+letter-spacing: 0.5px;
+color: #FFFFFF;
+}
+
+.main-title {
+    
+font-family: 'Roboto Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 120%;
+/* or 86px */
+
+letter-spacing: 0.5px;
+
+color: #000000;
+}
+
+.main-li > h3 {
+    font-family: 'Roboto Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+letter-spacing: 0.5px;
+
+color: #000000
+}
+
+.main-li > p {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+letter-spacing: 0.5px;
+color: #000000;
+}
+
+
+.sitetest{
+    background: #252420;
+    border-radius: 12px;
+}
+.site-div > h2 {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 0.5px;
+    line-height: 120%;
+    color: #fff;
+}
+
+.site-div > p {
+    color: #fff;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+}
+
+.str{
+    width: 80px;
+    height: 3px;
+    background-color: #FF7500;
+}
+
+.footer{
+    background-color: #F8F8F8;
+}
+
+.footer-nav  > ul > li > a  {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+color: #252420;
+}
