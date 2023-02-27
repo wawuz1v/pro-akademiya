@@ -1,3 +1,8 @@
+
+body {
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
 header{
     border-top: 5px solid #FF7500;
 }
@@ -20,7 +25,7 @@ ul {
     background-color: #252420;
 }
 .hero-title{
-    font-family: 'Roboto Condensed';
+    font-family: 'Roboto Condensed' , 'Arial', sans-serif;
 font-style: normal;
 font-weight: 700;
 font-size: 40px;
@@ -33,7 +38,7 @@ color: #FFFFFF;
 }
 
 .hero-text {
-    font-family: 'Roboto';
+    font-family: 'Roboto' , 'Arial', sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -45,7 +50,7 @@ color: #FFFFFF;
 
 .main-title {
     
-font-family: 'Roboto Condensed';
+font-family: 'Roboto Condensed' ,'Arial', sans-serif;
 font-style: normal;
 font-weight: 700;
 font-size: 72px;
@@ -58,7 +63,7 @@ color: #000000;
 }
 
 .main-li > h3 {
-    font-family: 'Roboto Condensed';
+    font-family: 'Roboto Condensed', "Arial", sans-serif;
 font-style: normal;
 font-weight: 700;
 font-size: 24px;
@@ -71,7 +76,7 @@ color: #000000
 }
 
 .main-li > p {
-    font-family: 'Roboto';
+    font-family: 'Roboto', "Arial", sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -87,7 +92,7 @@ color: #000000;
     border-radius: 12px;
 }
 .site-div > h2 {
-    font-family: 'Roboto Condensed';
+    font-family: 'Roboto Condensed', "Arial", sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -98,12 +103,13 @@ color: #000000;
 
 .site-div > p {
     color: #fff;
-    font-family: 'Roboto';
+    font-family: 'Roboto', "Arial", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.5px;
 }
+
 
 .str{
     width: 80px;
@@ -116,7 +122,7 @@ color: #000000;
 }
 
 .footer-nav  > ul > li > a  {
-    font-family: 'Roboto';
+    font-family: 'Roboto', "Arial", sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
